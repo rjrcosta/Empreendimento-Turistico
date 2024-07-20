@@ -1,0 +1,87 @@
+Registo Histórico de Clientes 
+
+ ---------------------------------------
+Nome: Tone
+Nr Dias:4
+Alojamento: Apartamento A
+Preço noite: 150
+Valor Estadia: 600
+Consumo Interno: 4
+SubTotal: 604
+Taxa Serviço: 60.400000000000006
+TotalGeral: 664.4
+Avaliação/Comentário: Passei um tempo incrivel. a dedicação de todos em servir bem é de louvar. Obrigado
+20/07/2024-21:26
+***********************************************************
+Nome: Bino
+Nr Dias:5
+Alojamento: Apartamento B
+Preço noite: 75
+Valor Estadia: 375
+Consumo Interno: 2.8
+SubTotal: 377.8
+Taxa Serviço: 37.78
+TotalGeral: 415.58000000000004
+Avaliação/Comentário: Top. Muito Bom
+20/07/2024-21:29
+***********************************************************
+Nome: bino
+Nr Dias:4
+Alojamento: Apartamento D
+Preço noite: 150
+Valor Estadia: 600
+Consumo Interno: 0
+SubTotal: 600
+Taxa Serviço: 60
+TotalGeral: 660
+Avaliação/Comentário: muito nice
+20/07/2024-21:36
+***********************************************************
+Nome: Ninex
+Nr Dias:4
+Alojamento: Apartamento D
+Preço noite: 150
+Valor Estadia: 600
+Consumo Interno: 1.5
+SubTotal: 601.5
+Taxa Serviço: 60.150000000000006
+TotalGeral: 661.65
+Avaliação/Comentário: espectacular!
+20/07/2024-21:38
+***********************************************************
+Nome: t
+Nr Dias:4
+Alojamento: Apartamento A
+Preço noite: 150
+Valor Estadia: 600
+Consumo Interno: 2
+SubTotal: 602
+Taxa Serviço: 60.2
+TotalGeral: 662.2
+Avaliação/Comentário: do melhor
+20/07/2024-21:48
+***********************************************************
+Nome: uy
+Nr Dias:4
+Alojamento: Apartamento A
+Preço noite: 150
+Valor Estadia: 600
+Consumo Interno: 442
+SubTotal: 1042
+Taxa Serviço: 104.2
+TotalGeral: 1146.2
+Avaliação/Comentário: reve
+20/07/2024-22:20
+***********************************************************
+Nome: yh
+Nr Dias:5
+Alojamento: Apartamento A
+Preço noite: 150
+Valor Estadia: 750
+Consumo Interno: 3
+SubTotal: 753
+Taxa Serviço: 75.3
+TotalGeral: 828.3
+Avaliação/Comentário: tn
+20/07/2024-22:21
+***********************************************************
